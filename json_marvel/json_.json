@@ -1,0 +1,202 @@
+[
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/947/thumb-94705.jpg",
+        "superheroe": "Spiderman",
+        "identidad": "Peter Parker",
+        "edad": "24",
+        "altura": "1,78 m",
+        "genero": "Masculino",
+        "descripcion": "Mecanismos artificiales en sus muñecas que disparan telarañas inventada por él mismo que le permite columpiarse grandes distancias, alcanzar objetos fuera de su alcance e inmovilizar a sus enemigos. "
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/102/102542.jpg",
+        "superheroe": "Hulk",
+        "identidad": "Robert Bruce Banner",
+        "edad": "40",
+        "altura": "2,50 m",
+        "genero": "Masculino",
+        "descripcion": "Capacidad de respirar bajo el agua, respirar en el espacio y ver fantasmas y otras entidades astrales. Todas estas habilidades crecen, habitualmente junto con su tamaño (depende de la transformación), en relación a su furia y ánimo psicológico, principalmente de las emociones negativas, como la ira, el miedo e incluso los celos."
+    },
+    
+    {
+        "image": "https://avatarfiles.alphacoders.com/156/thumb-156950.jpg",
+        "superheroe": "Iron Man",
+        "identidad": "Tony Stark",
+        "edad": "42",
+        "altura": "1,80 m",
+        "genero": "Masculino",
+        "descripcion": "Iron Man posee una armadura motorizada que le da fuerza y durabilidad sobrehumanas, vuelo y una gran variedad de armas."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/155/thumb-155518.jpg",
+        "superheroe": "Capitán America",
+        "identidad": "Steven Grant",
+        "edad": "26",
+        "altura": "1,88 m",
+        "genero": "Masculino",
+        "descripcion": "El Capitán América físicamente tiene la mayor fuerza física que puede alcanzar un ser humano, esta por encima de campeones de levantamiento de pesas, el Capi entrena con facilidad con 500 kilogramos de peso o 1100 libras"
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/150/thumb-150282.jpg",
+        "superheroe": "Thanos",
+        "identidad": "Thanos The Titan",
+        "edad": "30",
+        "altura": "2,60 m",
+        "genero": "Masculino",
+        "descripcion": "Thanos es un miembro mutante de la raza de superhumanos conocidos como los Eternos de Titán. El personaje posee habilidades comunes a los Eternos, pero se amplifica en mayor grado a través de una combinación de su patrimonio mutante-Eterno."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/501/thumb-50103.jpg",
+        "superheroe": "Deadpool",
+        "identidad": "Wade Winston Wilson",
+        "edad": "28",
+        "altura": "1,88 m",
+        "genero": "Masculino",
+        "descripcion": "El poder primario de Deadpool es un factor acelerado de curación, descrito por varios escritores con diferentes niveles de eficiencia. La velocidad de su factor de curación depende de la gravedad de la herida y del estado mental de Deadpool."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/114/thumb-11418.jpg",
+        "superheroe": "Thor",
+        "identidad": "Thor Odinson",
+        "edad": "39",
+        "altura": "1,90 m",
+        "genero": "Masculino",
+        "descripcion": "Como todos los asgardianos, Thor tiene una vida increíblemente larga y depende del consumo periódico de las Golden Apples de Idunn para mantener su vida útil extendida, que hasta la fecha ha durado muchos milenios."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/738/thumb-73875.jpg",
+        "superheroe": "Wolverine",
+        "identidad": "James Logan",
+        "edad": "41",
+        "altura": "1,60 m",
+        "genero": "Masculino",
+        "descripcion": "En el universo ficticio de Marvel, Wolverine posee poderes regenerativos que pueden curar cualquier herida, por mortal que ésta sea, además ese mismo poder hace que sea inmune a cualquier enfermedad existente en la Tierra y algunas extraterrestres."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/170/thumb-170781.jpg",
+        "superheroe": "Pantera Negra",
+        "identidad": "T'Challa",
+        "edad": "26",
+        "altura": "1,82 m",
+        "genero": "Masculino",
+        "descripcion": "El título de Pantera Negra es un rango de cargo, jefe del Clan de la Pantera de Wakanda. Como jefe, la Pantera tiene derecho a comer una hierba especial en forma de corazón que le otorga sentidos sobrehumanos agudos, fuerza mejorada, velocidad, agilidad, resistencia, durabilidad, curación y reflejos."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/235/thumb-235503.jpg",
+        "superheroe": "Loki",
+        "identidad": "Loki Laufeyson",
+        "edad": "29",
+        "altura": "1,82 m",
+        "genero": "Masculino",
+        "descripcion": "Inteligencia sobrehumana, fuerza, longevidad, magia que incluye proyecciones astrales, descargas de energía, vuelo, teleportación dimensional y telepatía. Además es un experto ilusionista y puede cambiar su aspecto físico a voluntad."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/370/thumb-37095.jpg",
+        "superheroe": "Magneto",
+        "identidad": "Erik Lehnsherr",
+        "edad": "30",
+        "altura": "1,88 m",
+        "genero": "Masculino",
+        "descripcion": "Magneto tiene el poder de controlar todas las formas de magnetismo,47​ lo que le permite creación de campos de fuerza magnéticos que puede expandir para proteger áreas extensas y han soportado múltiples efectos de armas nucleares, erupciones volcánicas y las profundidades del espacio."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/206/thumb-206885.jpg",
+        "superheroe": "Groot",
+        "identidad": "Monarca del Planeta X",
+        "edad": "10",
+        "altura": "26 cm",
+        "genero": "Masculino",
+        "descripcion": "Groot puede absorber la madera como alimento, y tiene la capacidad de regenerarse. Groot puede controlar árboles y plantas, usarlos para atacar a otros y parece ser resistente al fuego."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/367/thumb-36706.jpg",
+        "superheroe": "Silver Surfer",
+        "identidad": "Norrin Radd",
+        "edad": "29",
+        "altura": "1,93 m",
+        "genero": "Masculino",
+        "descripcion": "Silver Surfer tiene los poderes cósmicos gracias a que Galactus se los concedió como heraldo. Tiene la capacidad de reunir energía cósmica del ambiente para concentrarla en su cuerpo a voluntad o lanzarla violentamente. "
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/402/thumb-40227.jpg",
+        "superheroe": "Antorcha Humana",
+        "identidad": "Johnny Storm",
+        "edad": "24",
+        "altura": "1.77 m",
+        "genero": "Masculino",
+        "descripcion": "Johnny Storm ganó varios poderes sobrehumanos como resultado de los efectos mutagénicos de la radiación cósmica a la que estuvo expuesto, todos los cuales están relacionados con el fuego. Su principal poder es la capacidad de envolver su cuerpo en plasma ardiente sin causarle daño, en donde es capaz de volar proporcionando el empuje detrás de sí mismo con su propia llama, y también generar poderosas corrientes y / o bolas de fuego."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/786/thumb-78639.jpg",
+        "superheroe": "Ultron",
+        "identidad": "Crimson Cowl",
+        "edad": "34",
+        "altura": "2,43 m",
+        "genero": "Masculino",
+        "descripcion": "La apariencia visual y los poderes de Ultron han variado, pero sus poderes comunes incluyen niveles sobrehumanos de fuerza, velocidad, resistencia, durabilidad y reflejos; vuelo a velocidades subsónicas; varias armas ofensivas como rayos concusivos de energía (encéfalo-rayo), disparados de sus manos y sus sensores ópticos, además de un rayo encefalopático, el cual sitúa a sus víctimas en un estado de coma semejante a la muerte."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/150/thumb-150628.jpg",
+        "superheroe": "Venom",
+        "identidad": "El traje negro",
+        "edad": "33",
+        "altura": "2.26 cm",
+        "genero": "Asexuado",
+        "descripcion": "A pesar de que requiere un anfitrión vivo para sobrevivir, el simbionte Venom ha demostrado ser un experto en defenderse a sí mismo independiente de un anfitrión. El simbionte es capaz de cambiar de forma las habilidades, incluida la capacidad de formar picos o expandir su tamaño, así como imitar la aparición de otros humanoides después de que haya obtenido un huésped."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/265/thumb-26554.jpg",
+        "superheroe": "Wasp",
+        "identidad": "Janet Van Dyne",
+        "edad": "26",
+        "altura": "1,62 m ",
+        "genero": "Femenino",
+        "descripcion": "Haciendo uso de la implantación celular de partículas Sub-atómicas de Pym, la Avispa posee el poder de alterar su tamaño físico, haciendo que la masa de su cuerpo se desvíe o se gane desde una dimensión alternativa conocida como Kosmos."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/126/thumb-126005.jpg",
+        "superheroe": "Punisher",
+        "identidad": "Frank Castle",
+        "edad": "70",
+        "altura": "1,94 m",
+        "genero": "Masculino",
+        "descripcion": "Punisher ha recibido entrenamiento militar multidisciplinario del Cuerpo de Marines de los Estados Unidos, Reconocimiento de Fuerzas del Cuerpo de Marines de los Estados Unidos. Mientras era infante de marina, también recibió entrenamiento de la Escuela Aerotransportada y SEAL de la Marina de los Estados Unidos así como entrenamiento cruzado con el Regimiento del Servicio Aéreo Especial de Australia durante la Guerra de Vietnam."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/150/thumb-150568.jpg",
+        "superheroe": "Antman",
+        "identidad": "Scott Edward Harris Lang",
+        "edad": "38",
+        "altura": "2.5 cm",
+        "genero": "Masculino",
+        "descripcion": "Usando una forma gaseosa de partículas Pym guardadas en un compartimiento en su cinturón, ​Ant-Man inicialmente tenía el poder de encogerse (y de otras personas y objetos junto con él) al tamaño de una hormiga y volver a la normalidad. Con el tiempo, ha adquirido la capacidad de cambiar de tamaño a voluntad."
+    },
+
+    {
+        "image": "https://avatarfiles.alphacoders.com/265/thumb-26576.jpg",
+        "superheroe": "Mujer invisible",
+        "identidad": "Susan Storm",
+        "edad": "29",
+        "altura": "1,70 m",
+        "genero": "Femenino",
+        "descripcion": "Susan se puede volver invisible cuando manipula y doblega la luz sobre ella. También puede hacer invisibles a otras personas u objetos. También puede generar mentalmente campos de fuerza sólidos, que ella manipula para una variedad de efectos"
+    }
+]
